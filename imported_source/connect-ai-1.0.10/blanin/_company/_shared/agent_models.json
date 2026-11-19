@@ -1,0 +1,13 @@
+{
+  "youtube": "gemma4:12b",
+  "instagram": "gemma4:12b",
+  "designer": "qwen2.5-coder:7b",
+  "developer": "qwen2.5-coder:7b",
+  "business": "gemma4:e4b",
+  "secretary": "exaone3.5:7.8b",
+  "editor": "deepseek-r1:7b",
+  "writer": "deepseek-r1:7b",
+  "researcher": "gemma4:e2b",
+  "ceo": "gemma4:e4b",
+  "default": "gemma4:e4b"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "ollama-bridge",
+  "description": "내 PC의 로컬 Ollama 모델(gemma4:e4b 등)을 Antigravity 에이전트와 직접 연결하는 플러그인"
+}
+

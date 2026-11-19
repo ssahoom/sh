@@ -1,0 +1,10 @@
+{
+  "name": "cad-mcp",
+  "version": "1.0.0",
+  "description": "커튼월 금속 하지틀 및 외장 판넬 CAD 자동 생성 MCP 서버",
+  "mcpServers": {
+    "cad-mcp": {
+      "config": "./mcp_config.json"
+    }
+  }
+}

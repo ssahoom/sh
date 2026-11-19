@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "local-ollama": {
+      "command": "python",
+      "args": [
+        "d:/AI 1인 기업 test/.agents/plugins/ollama-bridge/server.py"
+      ]
+    }
+  }
+}
+
