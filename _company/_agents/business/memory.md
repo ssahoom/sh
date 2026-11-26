@@ -563,3 +563,5 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-11-26] secretary가 제출한 종합 보고서를 바탕으로, 24시간 주기 내에서 반복되지 않으면서 가장 높은 KPI 기여도를 가져올 단일 작업(Action Item)을 선정하고, 해당 작업을 실행할 최적의 에이전트(예: youtube, designer 등)를 지정하여 구체적인 실행 지시를 내리세요. → 산출물 sessions/2026-11-26T02-06/business.md
 - [2026-11-26] secretary와 researcher의 보고를 바탕으로, 가장 높은 ROI를 보장하는 단 하나의 최우선 작업(Single Most Valuable Task)을 선정하고, 해당 작업의 실행 단계(Phase 1)에 필요한 초기 자원 및 KPI를 정의합니다. → 산출물 sessions/2026-11-26T02-36/business.md
 - [2026-11-26] secretary가 제안한 최우선 작업을 KPI 및 수익화 관점에서 평가하고, 해당 작업의 예상 투자 대비 효과(ROI)와 즉각적인 실행 우선순위를 최종 결정하시오. → 산출물 sessions/2026-11-26T02-51/business.md
+- [2026-11-26] 현재 KPI와 회사 목표를 검토하여, 현재 가장 시급하게 달성해야 할 전략적 목표(가치 창출 지점)를 정의하고 보고합니다. → 산출물 sessions/2026-11-26T03-36/business.md
+- [2026-11-26] Secretary가 제공한 내부 상태 보고서와 Researcher가 제시한 시장 틈새 기회를 기반으로, 가장 높은 ROI(Return on Investment)를 보장하는 단일 핵심 작업(Single Most Valuable Task)을 최종 결정하고, 해당 작업을 실행할 다음 단계의 에이전트와 구체적인 실행 브리프를 작성. → 산출물 sessions/2026-11-26T04-37/business.md
